@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/comfibot.ml.ico",
     "slug": "comfi",
     "status": "down",
-    "uptime": "26.08%",
+    "uptime": "26.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 39,
+      "2024-12-18": 38,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -379,8 +380,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/comfi-bot.xx-mohit-xx.repl.co.ico",
     "slug": "rcomfi",
     "status": "down",
-    "uptime": "45.84%",
+    "uptime": "45.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.03%",
+    "uptimeMonth": "27.75%",
     "uptimeYear": "82.66%",
-    "time": 3526,
+    "time": 3520,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 918,
-    "timeYear": 1313,
+    "timeMonth": 888,
+    "timeYear": 1282,
     "dailyMinutesDown": {
-      "2024-12-17": 39,
+      "2024-12-18": 38,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -463,8 +464,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   }
 ]
